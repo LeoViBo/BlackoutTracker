@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2B4A31-CB29-43A3-A679-9EE552177BEC}|BlackoutTracker\\BlackoutTracker.csproj|c:\\users\\leona\\source\\repos\\blackouttracker\\blackouttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2B4A31-CB29-43A3-A679-9EE552177BEC}|BlackoutTracker\\BlackoutTracker.csproj|solutionrelative:blackouttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCC323D-0F77-4D55-BD96-36265CA34501}|BlackoutTracker.Estrutura.Repository\\BlackoutTracker.Estrutura.Repository.csproj|c:\\users\\leona\\source\\repos\\blackouttracker\\blackouttracker.estrutura.repository\\alertarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCC323D-0F77-4D55-BD96-36265CA34501}|BlackoutTracker.Estrutura.Repository\\BlackoutTracker.Estrutura.Repository.csproj|solutionrelative:blackouttracker.estrutura.repository\\alertarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCC323D-0F77-4D55-BD96-36265CA34501}|BlackoutTracker.Estrutura.Repository\\BlackoutTracker.Estrutura.Repository.csproj|c:\\users\\leona\\source\\repos\\blackouttracker\\blackouttracker.estrutura.repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCC323D-0F77-4D55-BD96-36265CA34501}|BlackoutTracker.Estrutura.Repository\\BlackoutTracker.Estrutura.Repository.csproj|solutionrelative:blackouttracker.estrutura.repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900D432F-C17D-4039-8908-D469ECCD2B95}|BlackoutTracker.Estrutura.Model\\BlackoutTracker.Estrutura.Model.csproj|c:\\users\\leona\\source\\repos\\blackouttracker\\blackouttracker.estrutura.model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900D432F-C17D-4039-8908-D469ECCD2B95}|BlackoutTracker.Estrutura.Model\\BlackoutTracker.Estrutura.Model.csproj|solutionrelative:blackouttracker.estrutura.model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900D432F-C17D-4039-8908-D469ECCD2B95}|BlackoutTracker.Estrutura.Model\\BlackoutTracker.Estrutura.Model.csproj|c:\\users\\leona\\source\\repos\\blackouttracker\\blackouttracker.estrutura.model\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900D432F-C17D-4039-8908-D469ECCD2B95}|BlackoutTracker.Estrutura.Model\\BlackoutTracker.Estrutura.Model.csproj|solutionrelative:blackouttracker.estrutura.model\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C12E1F7-BD4D-4808-B949-7109E5C9282B}|BlackoutTracker.Estrutura.Controller\\BlackoutTracker.Estrutura.Controller.csproj|c:\\users\\leona\\source\\repos\\blackouttracker\\blackouttracker.estrutura.controller\\alertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C12E1F7-BD4D-4808-B949-7109E5C9282B}|BlackoutTracker.Estrutura.Controller\\BlackoutTracker.Estrutura.Controller.csproj|solutionrelative:blackouttracker.estrutura.controller\\alertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C12E1F7-BD4D-4808-B949-7109E5C9282B}|BlackoutTracker.Estrutura.Controller\\BlackoutTracker.Estrutura.Controller.csproj|c:\\users\\leona\\source\\repos\\blackouttracker\\blackouttracker.estrutura.controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C12E1F7-BD4D-4808-B949-7109E5C9282B}|BlackoutTracker.Estrutura.Controller\\BlackoutTracker.Estrutura.Controller.csproj|solutionrelative:blackouttracker.estrutura.controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C12E1F7-BD4D-4808-B949-7109E5C9282B}|BlackoutTracker.Estrutura.Controller\\BlackoutTracker.Estrutura.Controller.csproj|c:\\users\\leona\\source\\repos\\blackouttracker\\blackouttracker.estrutura.controller\\blackouttracker.estrutura.controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C12E1F7-BD4D-4808-B949-7109E5C9282B}|BlackoutTracker.Estrutura.Controller\\BlackoutTracker.Estrutura.Controller.csproj|solutionrelative:blackouttracker.estrutura.controller\\blackouttracker.estrutura.controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 281,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlertaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker.Estrutura.Repository\\AlertaRepository.cs",
+              "RelativeDocumentMoniker": "BlackoutTracker.Estrutura.Repository\\AlertaRepository.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker.Estrutura.Repository\\AlertaRepository.cs",
+              "RelativeToolTip": "BlackoutTracker.Estrutura.Repository\\AlertaRepository.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwG0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:16:51.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alerta.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker.Estrutura.Model\\Alerta.cs",
+              "RelativeDocumentMoniker": "BlackoutTracker.Estrutura.Model\\Alerta.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker.Estrutura.Model\\Alerta.cs",
+              "RelativeToolTip": "BlackoutTracker.Estrutura.Model\\Alerta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:17:29.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker.Estrutura.Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "BlackoutTracker.Estrutura.Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker.Estrutura.Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "BlackoutTracker.Estrutura.Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:15:27.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker.Estrutura.Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "BlackoutTracker.Estrutura.Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker.Estrutura.Model\\Usuario.cs",
+              "RelativeToolTip": "BlackoutTracker.Estrutura.Model\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:15:08.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker\\Program.cs",
+              "RelativeDocumentMoniker": "BlackoutTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker\\Program.cs",
+              "RelativeToolTip": "BlackoutTracker\\Program.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAYwMYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:13:03.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlertaController.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker.Estrutura.Controller\\AlertaController.cs",
+              "RelativeDocumentMoniker": "BlackoutTracker.Estrutura.Controller\\AlertaController.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker.Estrutura.Controller\\AlertaController.cs",
+              "RelativeToolTip": "BlackoutTracker.Estrutura.Controller\\AlertaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:19:40.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker.Estrutura.Controller\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "BlackoutTracker.Estrutura.Controller\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker.Estrutura.Controller\\UsuarioController.cs",
+              "RelativeToolTip": "BlackoutTracker.Estrutura.Controller\\UsuarioController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:14:39.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlackoutTracker.Estrutura.Controller",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker.Estrutura.Controller\\BlackoutTracker.Estrutura.Controller.csproj",
+              "RelativeDocumentMoniker": "BlackoutTracker.Estrutura.Controller\\BlackoutTracker.Estrutura.Controller.csproj",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\BlackoutTracker\\BlackoutTracker.Estrutura.Controller\\BlackoutTracker.Estrutura.Controller.csproj",
+              "RelativeToolTip": "BlackoutTracker.Estrutura.Controller\\BlackoutTracker.Estrutura.Controller.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T15:19:31.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

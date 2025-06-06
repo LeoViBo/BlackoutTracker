@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BlackoutTracker.Estrutura.Model/1.0.0": {
+        "runtime": {
+          "BlackoutTracker.Estrutura.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlackoutTracker.Estrutura.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

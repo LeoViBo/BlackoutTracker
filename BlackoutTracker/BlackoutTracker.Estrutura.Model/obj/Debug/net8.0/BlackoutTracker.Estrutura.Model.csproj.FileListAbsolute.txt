@@ -1,0 +1,11 @@
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Model\bin\Debug\net8.0\BlackoutTracker.Estrutura.Model.deps.json
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Model\bin\Debug\net8.0\BlackoutTracker.Estrutura.Model.dll
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Model\bin\Debug\net8.0\BlackoutTracker.Estrutura.Model.pdb
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Model\obj\Debug\net8.0\BlackoutTracker.Estrutura.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Model\obj\Debug\net8.0\BlackoutTracker.Estrutura.Model.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Model\obj\Debug\net8.0\BlackoutTracker.Estrutura.Model.AssemblyInfo.cs
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Model\obj\Debug\net8.0\BlackoutTracker.Estrutura.Model.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Model\obj\Debug\net8.0\BlackoutTracker.Estrutura.Model.dll
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Model\obj\Debug\net8.0\refint\BlackoutTracker.Estrutura.Model.dll
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Model\obj\Debug\net8.0\BlackoutTracker.Estrutura.Model.pdb
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Model\obj\Debug\net8.0\ref\BlackoutTracker.Estrutura.Model.dll

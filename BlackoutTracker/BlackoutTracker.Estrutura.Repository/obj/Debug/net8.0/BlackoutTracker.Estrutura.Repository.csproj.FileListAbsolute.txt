@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\bin\Debug\net8.0\BlackoutTracker.Estrutura.Repository.deps.json
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\bin\Debug\net8.0\BlackoutTracker.Estrutura.Repository.dll
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\bin\Debug\net8.0\BlackoutTracker.Estrutura.Repository.pdb
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\obj\Debug\net8.0\BlackoutTracker.Estrutura.Repository.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\obj\Debug\net8.0\BlackoutTracker.Estrutura.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\obj\Debug\net8.0\BlackoutTracker.Estrutura.Repository.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\obj\Debug\net8.0\BlackoutTracker.Estrutura.Repository.AssemblyInfo.cs
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\obj\Debug\net8.0\BlackoutTracker.Estrutura.Repository.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\obj\Debug\net8.0\BlackoutTracker.Estrutura.Repository.dll
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\obj\Debug\net8.0\refint\BlackoutTracker.Estrutura.Repository.dll
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\obj\Debug\net8.0\BlackoutTracker.Estrutura.Repository.pdb
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\obj\Debug\net8.0\ref\BlackoutTracker.Estrutura.Repository.dll
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\bin\Debug\net8.0\BlackoutTracker.Estrutura.Model.dll
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\bin\Debug\net8.0\BlackoutTracker.Estrutura.Model.pdb
+C:\Users\leona\source\repos\BlackoutTracker\BlackoutTracker.Estrutura.Repository\obj\Debug\net8.0\Blackout.DA92E74E.Up2Date
